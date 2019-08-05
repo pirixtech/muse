@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clara</title>
-    <link>https://clara.me/</link>
+    <link>https://pirixtech.github.io/muse/</link>
     <description>Recent content on Clara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://clara.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pirixtech.github.io/muse/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://clara.me/categories/</loc>
+    <loc>https://pirixtech.github.io/muse/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://clara.me/</loc>
+    <loc>https://pirixtech.github.io/muse/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://clara.me/tags/</loc>
+    <loc>https://pirixtech.github.io/muse/tags/</loc>
     <priority>0</priority>
   </url>
   
