@@ -1,0 +1,11 @@
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  email: pirix.technology@gmail.com
+  local_dir: docs
+  target_branch: master
+  verbose: true
+  on:
+    branch: master
