@@ -1,5 +1,7 @@
 # Clara Homepage
 
+[![Build Status](https://travis-ci.com/pirixtech/muse.svg?branch=master)](https://travis-ci.com/pirixtech/muse)
+
 ## Development
 
 ```bash
