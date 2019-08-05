@@ -20,7 +20,7 @@ publishDir = "docs"
 [params]
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
-  facebook = ""
+  facebook = "https://www.facebook.com/pirix.technology"
   twitter = "https://twitter.com/PirixTech"
   instagram = ""
   youtube = ""
