@@ -1,11 +1,7 @@
 # muse
 
-### Setup workspace
-
-We use pipenv to manage package dependencies and virtualenv
+## Setup workspace
 
 ```bash
-pipenv --two
-pipenv lock
-pipenv install Django
+npm install
 ```
