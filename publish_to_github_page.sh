@@ -24,7 +24,8 @@ echo "Generating site ..."
 hugo
 
 echo "Updating master branch ..."
-cd docs && git add --all && git commit -m "Publishing to master branch docs folder (publish_to_github_page.sh)"
+# cd docs
+git add --all && git commit -m "Publishing to master branch docs folder (publish_to_github_page.sh)"
 
 # echo "Pushing to github"
 # git push --all
