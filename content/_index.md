@@ -1,6 +1,6 @@
 ---
 title: 'Clara'
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/background.jpg'
 description: 'Your Personal Travel Companion'
 ---
 
