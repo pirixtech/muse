@@ -1,5 +1,16 @@
+dist: trusty
+sudo: required
+
+install:
+ - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.56.3/hugo_0.56.3_Linux-64bit.deb
+ - sudo dpkg -i /tmp/hugo.deb
+
+script:
+ - hugo
+
 deploy:
   provider: pages
+  script: bash push_to_github_page.sh
   skip_cleanup: true
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
